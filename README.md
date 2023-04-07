@@ -31,6 +31,8 @@ Please [download and install Anaconda](https://www.anaconda.com/) on your laptop
 * Detecting and filling missing values
 * Regular expressions for text mining
 
+You can run the notebook for this session at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AashitaK/A-Hands-On-Workshop-In-Machine-Learning/HEAD).
+
 #### 2. More on `pandas` and Logistic regression (Tuesday, April 11, 2023)
 * More on `pandas` - Groupby operations
 * One hot encoding for categorical features
