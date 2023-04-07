@@ -18,7 +18,7 @@ The learning material and solutions will be made available in [this Github repos
 
 [Here is an optional quiz](https://forms.gle/k3sidBtcAikQziQU7) to brush up your Python skills before the workshop.
 
-Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual#Downloads) on your laptop ahead of the workshop.  
+Please [download and install Anaconda](https://www.anaconda.com/) on your laptop ahead of the workshop.  
 
 ### Topics to be covered:  
 
