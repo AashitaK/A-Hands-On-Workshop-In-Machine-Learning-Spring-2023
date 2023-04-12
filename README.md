@@ -37,13 +37,13 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 
 #### 2. More on `pandas` and Logistic regression (Tuesday, April 11, 2023)
 * More on `pandas` - Groupby operations
-* One hot encoding for categorical features
 * Binary classification algorithm: Logistic Regression
 * Underfitting and Overfitting to the training dataset; Model cross-validation 
 
 #### 3. Natural language processing (NLP) concepts (Friday, April 14, 2023)
 * Perceptron - the simplest neural network
 * An exercise on implementing AND and OR gates using Perceptron by trial-and-error
+* One hot encoding for categorical features
 * Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, using word n-grams, etc.
 * Application of Logistic Regression and NLP concepts using `scikit-learn` on the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) to predict the sentiment (positive or negative) of the movie reviews
 
