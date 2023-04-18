@@ -45,7 +45,6 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 * An exercise on implementing AND and OR gates using Perceptron by trial-and-error 
 * Multi-Layer Perception: Forward and Backward propagation
 * One hot encoding for categorical features
-* Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, using word n-grams, etc.
 
 #### 4. Fine-tuning Neural Networks (Tuesday, April 18, 2023)
 * Vanishing gradients and exploding gradients in deep networks
@@ -54,6 +53,7 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 * Regularization - L1 and L2, Dropout
 * Tuning other hyper-parameters such as learning rate, number of epochs, etc.
 * Exploring the [TensorFlow Playground](https://playground.tensorflow.org/)
+* Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor etc.
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
 #### 5. Convolution Neural Networks (Friday, April 21, 2023)
