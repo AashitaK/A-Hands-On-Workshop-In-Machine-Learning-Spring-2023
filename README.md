@@ -65,7 +65,7 @@ You can run the notebook for this session either at [![Binder](https://mybinder.
 #### 6. Recurrent Neural Networks (Tuesday, April 25, 2023)
 * Recurrent Neural Networks (RNN)
 
-#### 7.  and Transformer models (Friday, April 28, 2023)
+#### 7. Transformer models (Friday, April 28, 2023)
 * Transformer model architecture (used in models such as chatGPT)
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
 
