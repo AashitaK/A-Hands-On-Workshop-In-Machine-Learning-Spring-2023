@@ -1,3 +1,5 @@
+# This is past workshop from Spring 2023
+
 ## A Hands-on Workshop series in Machine Learning 
 Timing: **3-5 pm PST** on **Tuesdays** and **Fridays** from **April 7** to **April 28, 2023** (**7 sessions** in total)  
 Where: [Shanahan 3465](https://www.hmc.edu/facilities-maintenance/wp-content/uploads/sites/17/2014/01/shanahan-center-classroom-locations.pdf) or remotely via Zoom (link will be shared when you [register](https://forms.gle/SgEbuExURxd6Vow69))
